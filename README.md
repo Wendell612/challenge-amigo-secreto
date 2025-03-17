@@ -1,10 +1,10 @@
 # Jogo do amigo secreto
 
 # O que é?:
-O jogo do amigo secreto é um challenge proposto pela Alura no curso Oracle next education (Oracle ONE), com o objetivo de testar as capacidades de criação de código e o aprendizado dos participantes do curso. Nesse challenge os participantes devem criar um jogo que recebe nomes colocados pelo jogador é os sorteia de uma forma aléatoria.
+O jogo do amigo secreto é um challenge proposto pela Alura no curso Oracle next education (Oracle ONE), com o objetivo de testar as capacidades de criação de código e o aprendizado dos participantes do curso. Nesse challenge os participantes devem criar um jogo que recebe nomes colocados pelo jogador e os sorteia de uma forma aleatória.
 
 # Como jogar:
-Você pode começar clicando no arquivo de documento "index.html" para abri-lo em um navegador.
+Você pode começar baixando e extraindo o arquivo .zip e em seguida clicando no arquivo de documento "index.html" para abri-lo em um navegador.
 
 1) O jogador deve inserir um nome na caixa de texto e em seguida clicar no botão "Adicionar" para colocar o nome selecionado na lista de sorteio.
    
